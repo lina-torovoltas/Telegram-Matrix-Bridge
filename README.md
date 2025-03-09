@@ -1,5 +1,5 @@
 # Telegram-Matrix-bridge
-This bot serves as a bridge between Telegram and Matrix, allowing messages to be transferred between the two platforms.
+The bridge connecting Matrix and Telegram for message forwarding unfortunately does not yet support image sharing.
 
 ## Installation
 Before you begin installation, make sure you have permissions to execute commands. Follow these steps:
